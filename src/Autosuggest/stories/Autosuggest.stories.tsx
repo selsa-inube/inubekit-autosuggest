@@ -20,7 +20,7 @@ const optionsMock = [
   { id: "fr", label: "France", value: "france" },
   { id: "de", label: "Germany", value: "germany" },
   { id: "jp", label: "Japan", value: "japan" },
-  { id: "in", label: "India", value: "india" },
+  { id: "co", label: "Colombia", value: "colombia" },
   { id: "cn", label: "China", value: "china" },
   { id: "br", label: "Brazil", value: "brazil" },
 ];
